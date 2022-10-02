@@ -1,2 +1,2 @@
 # sample-ripo
-更新
+update-readme
