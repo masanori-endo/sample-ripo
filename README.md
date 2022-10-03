@@ -1,2 +1,2 @@
 # sample-ripo
-first4
+today 2022/10/03
